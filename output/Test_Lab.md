@@ -9,8 +9,8 @@ Testing to check functionality
 ```text
 ipconfig
 Ethernet adapter Ethernet:
-IPv4 Address . . . . . . . . . . . : 192.168.1.50
-Default Gateway . . . . . . . . . . : 192.168.1.1
+IPv4 Address . . . . . . . . . . . : xxxx
+Default Gateway . . . . . . . . . . : xxxxx
 ```
 
 ## Observation
